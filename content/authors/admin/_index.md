@@ -1,13 +1,13 @@
 ---
 # Display name
-title: Alex Johnson
+title: Yunlu Ma
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Alex
-last_name: Johnson
+first_name: Yunlu
+last_name: Ma
 
 # Pronouns (optional)
 pronouns: he/him
