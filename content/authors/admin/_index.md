@@ -23,12 +23,12 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior AI Research Scientist
+role: primary school student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: sd
-    url: https://ai.meta.com/
+  - name: primary school
+    url: https://primary school/
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
