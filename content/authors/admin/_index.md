@@ -1,12 +1,12 @@
 ---
 # Display name
-title: Yunlu Ma
+title: 6666
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Yunlu
+first_name: first_name
 last_name: Ma
 
 # Pronouns (optional)
@@ -27,7 +27,7 @@ role: Senior AI Research Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: Meta AI
+  - name: sd
     url: https://ai.meta.com/
 
 # Social network links
